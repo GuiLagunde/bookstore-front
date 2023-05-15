@@ -101,6 +101,9 @@
           "options": {
             "browserTarget": "bookstore-front:build"
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy"
         }
       }
     }
